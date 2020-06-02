@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<library>
+    <books>
+        <book>
+            <title>Clean Architecture</title>
+            <authors>
+                <id>1</id>
+            </authors>
+        </book>
+        <book>
+            <title>Экстремальное программирование: планирование</title>
+            <authors>
+                <id>2</id>
+                <id>3</id>
+            </authors>
+        </book>
+        <book>
+            <title>Онтодидактика в математике</title>
+            <authors>
+                <id>4</id>
+            </authors>
+        </book>
+    </books>
+    <authors>
+        <author>
+            <id>1</id>
+            <name>Robert C. Martin</name>
+        </author>
+        <author>
+            <id>2</id>
+            <name>Кент Бек</name>
+        </author>
+        <author>
+            <id>3</id>
+            <name>Мартин Фаулер</name>
+        </author>
+        <author>
+            <id>4</id>
+            <name>Ляпунов Алексей Андреевич</name>
+        </author>
+    </authors>
+</library>
